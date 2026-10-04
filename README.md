@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=220&section=header&text=Hi,%20I'm%20Matvey!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Young%20developer%20from%20Minsk&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=220&section=header&text=Hi,%20I'm%20Matvey!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20developer%20in%20training%20%7C%20Minsk&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Student+at+ITStep+%7C+2nd+year;9th+grade+at+School+%2359+%7C+Minsk;Programming+is+my+hobby+%26+my+future;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Student+at+ITStep;C%2B%2B+%7C+HTML+%7C+CSS+%7C+JavaScript;Focused+on+web+development" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,41 +19,19 @@
 
 ## 👨‍💻 About me
 
-<table>
-  <tr>
-    <td>🎓</td>
-    <td>Student at <b>ITStep</b> — currently in my <b>2nd year</b></td>
-  </tr>
-  <tr>
-    <td>🏫</td>
-    <td>Studying in the <b>9th grade</b> at <b>School №59</b>, Minsk</td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td>Programming isn't just study for me — it's my <b>hobby</b></td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td>Currently improving my skills in <b>web development</b> and <b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td>Goal: become a professional developer and build cool projects</td>
-  </tr>
-</table>
+I'm a second-year student at **ITStep** and a 10th-grade student at **School №59** in Minsk.
+
+I started with **C++**, where I learned the fundamentals of programming and algorithmic thinking, and then moved on to **web development** with HTML, CSS and JavaScript. I regularly practice problem solving on Codewars and use Git and GitHub to manage my projects.
+
+**Current focus:** JavaScript and front-end development.
+**Goal:** to grow into a professional software developer.
 
 ---
 
-## 🛠️ My tech stack
+## 🛠️ Tech stack
 
-### 🥇 First year
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,visualstudio,git,github&perline=4" alt="First year stack" />
-</p>
-
-### 🥈 Second year
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js&perline=4" alt="Second year stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,github,vscode,visualstudio&perline=9" alt="Tech stack" />
 </p>
 
 <details>
@@ -61,15 +39,16 @@
 
 <br/>
 
-| Year | Technology | Purpose |
-|:----:|:-----------|:--------|
-| 1️⃣ | **C++** | Core programming language, algorithms |
-| 1️⃣ | **Visual Studio** | IDE for C++ development |
-| 1️⃣ | **Git & GitHub** | Version control and collaboration |
-| 2️⃣ | **VS Code** | Code editor for web development |
-| 2️⃣ | **HTML5** | Page structure |
-| 2️⃣ | **CSS3** | Styling and layout |
-| 2️⃣ | **JavaScript** | Interactivity and logic |
+| Technology | Purpose |
+|:-----------|:--------|
+| **C++** | Core programming language, algorithms |
+| **JavaScript** | Interactivity and logic |
+| **Node.js** | Server-side JavaScript |
+| **HTML5** | Page structure |
+| **CSS3** | Styling and layout |
+| **Git & GitHub** | Version control and collaboration |
+| **VS Code** | Code editor for web development |
+| **Visual Studio** | IDE for C++ development |
 
 </details>
 
@@ -88,7 +67,7 @@
 
 ---
 
-## ⚔️ My Codewars progress
+## ⚔️ Codewars
 
 <div align="center">
 
@@ -98,7 +77,7 @@
 
 <br/>
 
-*Solving katas to sharpen my logic and coding skills* 🥋
+*Regular practice in algorithms and problem solving.*
 
 </div>
 
@@ -115,17 +94,13 @@
 
 ---
 
-## 🤝 Let's connect
+## 🤝 Contacts
 
 <div align="center">
 
 <a href="https://github.com/makmatvey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.codewars.com/users/makmatvey"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>
 <a href="https://t.me/iqqmaxxingg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
-<br/><br/>
-
-⭐ *If you like my profile, leave a star on my repositories!* ⭐
 
 </div>
 
