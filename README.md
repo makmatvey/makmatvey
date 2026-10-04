@@ -34,24 +34,6 @@ I started with **C++**, where I learned the fundamentals of programming and algo
   <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,github,vscode,visualstudio&perline=9" alt="Tech stack" />
 </p>
 
-<details>
-<summary><b>📋 Show as a list</b></summary>
-
-<br/>
-
-| Technology | Purpose |
-|:-----------|:--------|
-| **C++** | Core programming language, algorithms |
-| **JavaScript** | Interactivity and logic |
-| **Node.js** | Server-side JavaScript |
-| **HTML5** | Page structure |
-| **CSS3** | Styling and layout |
-| **Git & GitHub** | Version control and collaboration |
-| **VS Code** | Code editor for web development |
-| **Visual Studio** | IDE for C++ development |
-
-</details>
-
 ---
 
 ## 📊 GitHub stats
@@ -80,17 +62,6 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 *Regular practice in algorithms and problem solving.*
 
 </div>
-
----
-
-## 🗺️ Roadmap
-
-- [x] Learn C++ basics and algorithms
-- [x] Get comfortable with Git & GitHub
-- [x] Learn HTML, CSS and JavaScript
-- [ ] Build a portfolio website
-- [ ] Learn a JavaScript framework (React)
-- [ ] Create my first full-stack project
 
 ---
 
