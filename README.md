@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About me
 
-I'm a second-year student at **ITStep** and a 10th-grade student at **School №59** in Minsk.
+I'm a second-year student at **ITStep** and a 10th-grade student in Minsk.
 
 I started with **C++**, where I learned the fundamentals of programming and algorithmic thinking, and then moved on to **web development** with HTML, CSS and JavaScript. I regularly practice problem solving on Codewars and use Git and GitHub to manage my projects.
 
@@ -71,6 +71,7 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 <a href="https://github.com/makmatvey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.codewars.com/users/makmatvey"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>
 <a href="https://t.me/iqqmaxxingg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/matsvey-makushenka-a296b0385"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
