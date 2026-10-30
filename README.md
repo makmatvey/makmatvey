@@ -22,7 +22,7 @@ I'm a second-year student at **ITStep** and a 10th-grade student in Minsk.
 
 I started with **C++**, where I learned the fundamentals of programming and algorithmic thinking, and then moved on to **web development** with HTML, CSS and JavaScript. I regularly practice problem solving on Codewars and use Git and GitHub to manage my projects.
 
-**Current focus:** JavaScript and front-end development.
+**Current focus:** JavaScript, frameworks: React and Angular, front-end development.
 **Goal:** to grow into a professional software developer.
 
 ---
