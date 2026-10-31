@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About me
 
-I'm a second-year student at **ITStep** and a 10th-grade student in Minsk.
+I'm a third-year student at **ITStep** and a 10th-grade student in Minsk.
 
 I started with **C++**, where I learned the fundamentals of programming and algorithmic thinking, and then moved on to **web development** with HTML, CSS and JavaScript. I regularly practice problem solving on Codewars and use Git and GitHub to manage my projects.
 
