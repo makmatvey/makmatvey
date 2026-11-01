@@ -30,7 +30,7 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,github,vscode,visualstudio&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,github&perline=9" alt="Tech stack" />
 </p>
 
 ---
