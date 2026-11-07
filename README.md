@@ -26,12 +26,16 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,html,css,git,github&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css&perline=9" alt="Tech Stack" />
+</p>
+
+## 🧰 Utilities
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker&perline=9" alt="Utilities" />
 </p>
 
 ---
-
-## 📊 GitHub stats
 
 <div align="center">
 
@@ -41,8 +45,6 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 </div>
 
 ---
-
-## 🤝 Contacts
 
 <div align="center">
 
