@@ -3,10 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=220&section=header&text=Hi,%20I'm%20Matvey!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20developer%20in%20training%20%7C%20Minsk&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Student+at+ITStep;C%2B%2B+%7C+HTML+%7C+CSS+%7C+JavaScript;Focused+on+web+development" alt="Typing SVG" />
-</a>
-
 <br/>
 
 ![Codewars](https://img.shields.io/badge/Codewars-makmatvey-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
@@ -41,24 +37,6 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 
 <img height="170" src="https://github-readme-stats-jet-chi-67.vercel.app/api?username=makmatvey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats-jet-chi-67.vercel.app/api/top-langs/?username=makmatvey&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=makmatvey&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## ⚔️ Codewars
-
-<div align="center">
-
-<a href="https://www.codewars.com/users/makmatvey">
-  <img src="https://www.codewars.com/users/makmatvey/badges/large" alt="Codewars profile" />
-</a>
-
-<br/>
-
-*Practice in algorithms and problem solving.*
 
 </div>
 
