@@ -32,7 +32,7 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 ## 🧰 Utilities
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker&perline=9" alt="Utilities" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker,arch&perline=9" alt="Utilities" />
 </p>
 
 ---
