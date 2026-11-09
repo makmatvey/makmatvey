@@ -27,7 +27,7 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bash&perline=9" alt="Tech Stack" />
 </p>
 
 ## 🧰 Utilities
