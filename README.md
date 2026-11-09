@@ -5,7 +5,6 @@
 
 <br/>
 
-![Codewars](https://img.shields.io/badge/Codewars-makmatvey-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 ![Location](https://img.shields.io/badge/Minsk-Belarus-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
