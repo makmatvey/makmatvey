@@ -41,15 +41,6 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-jet-chi-67.vercel.app/api?username=makmatvey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-jet-chi-67.vercel.app/api/top-langs/?username=makmatvey&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
 <a href="https://github.com/makmatvey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.codewars.com/users/makmatvey"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>
 <a href="https://t.me/iqqmaxxingg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
