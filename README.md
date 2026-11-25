@@ -21,6 +21,8 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 
 **Goal:** to grow into a professional software developer.
 
+**Building:** [VIctory](https://github.com/Marvisak/VIctory) — porting GTA VI to PC.
+
 ---
 
 ## 🛠️ Tech stack
