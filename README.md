@@ -28,13 +28,13 @@ I started with **C++**, where I learned the fundamentals of programming and algo
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bash&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bash,express&perline=9" alt="Tech Stack" />
 </p>
 
 ## 🧰 Utilities
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vercel,docker,arch,vite,express&perline=10" alt="Utilities" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vercel,docker,arch,vite&perline=10" alt="Utilities" />
 </p>
 
 ---
